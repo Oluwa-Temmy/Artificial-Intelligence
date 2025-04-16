@@ -12,7 +12,7 @@ Minimax Algorithm Explained
 Series
 
 --------------
-
+[Modded]
 Name: Osayi Odiase
 Course: CPSC 425 01
 Assignment: Mod4A1 Minimax Connect 4
@@ -132,6 +132,8 @@ def eval_window(window, piece):
     [0, 0, 0, 0] = 0
     [1, 1, 1, 2] = -4 (Bad case)
     [2, 2, 2, 2] = -100 (Worst case)
+
+    [Modded] Changed Weights for difficulty
     """
     score = 0
     inverse_piece = PLAYER_PIECE
