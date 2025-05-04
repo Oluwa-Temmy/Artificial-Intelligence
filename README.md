@@ -4,7 +4,7 @@ Welcome to the repository dedicated to learning and implementing artificial inte
 
 ## Programs
 
-### Course Work
+### :woman_technologist: Course Work
 
 #### [Terminal Flood Fill](https://github.com/Oluwa-Temmy/Artificial-Intelligence/tree/main/floodfill)
 - **Description:** Implements Depth-First Search (DFS) to replace letters in a terminal based on an array of letters.
