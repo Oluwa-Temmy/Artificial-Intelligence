@@ -19,3 +19,4 @@ Welcome to the repository dedicated to learning and implementing artificial inte
 - **Breadth-First Search (BFS)**
 - **Depth-First Search (DFS)**
 - **Flood Fill**
+- **Minimax**
